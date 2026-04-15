@@ -1,0 +1,1 @@
+npx @marp-team/marp-cli docs/claude-code-training.md -o docs/claude-code-training.html
